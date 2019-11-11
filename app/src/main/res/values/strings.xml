@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Basic Fragment</string>
+    <string name="dynamic_fragment">dynamic_fragment</string>
+</resources>
